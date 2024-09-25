@@ -1,5 +1,4 @@
-//% color="#AA278D" weight=100
-namespace LLM_Chat {
+namespace LLMChat {
     //% block
     export function helloWorld() {
 
